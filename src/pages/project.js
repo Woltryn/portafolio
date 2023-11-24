@@ -31,7 +31,7 @@ export function Proyecto(){
               <img src="https://rab-import-assets.s3.amazonaws.com/expoRab/logo.jpg" alt="Expo Rab" />
               <div className="text">
                 <p><b>Expo Rab</b> (2022)</p>
-                <p>Experiencia como desarrollador frontend en equipo web. usando el framework Laravel para enlazar frontend y backend. Codificación con HTML, Bootstrap, CSS, JS. Colaboración con desarrolladores y backend.</p>
+                <p>Experiencia como desarrollador frontend en equipo web. usando el framework Laravel para enlazar frontend y backend, codificación con HTML, Bootstrap, CSS, JS. Colaboración con desarrolladores y backend.</p>
               </div>
             </article>
           </a>
