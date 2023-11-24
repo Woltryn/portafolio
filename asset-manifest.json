@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/portafolio/static/css/main.b16e31c6.css",
-    "main.js": "/portafolio/static/js/main.732e0061.js",
-    "static/media/galeria.png": "/portafolio/static/media/galeria.c3becb17dcbd671e0506.png",
-    "static/media/backend-is.png": "/portafolio/static/media/backend-is.86d97737db173fd69cf2.png",
-    "static/media/fondo-home.jpeg": "/portafolio/static/media/fondo-home.ddafe4a279b7dc89d375.jpeg",
-    "static/media/frontend.jpg": "/portafolio/static/media/frontend.40a96248b75039173fc4.jpg",
-    "static/media/contratar_programador.jpg": "/portafolio/static/media/contratar_programador.7811e09ccdebef98497a.jpg",
-    "static/media/logo.jpg": "/portafolio/static/media/logo.6a87daa4fd20a2095ebd.jpg",
-    "index.html": "/portafolio/index.html",
-    "main.b16e31c6.css.map": "/portafolio/static/css/main.b16e31c6.css.map",
-    "main.732e0061.js.map": "/portafolio/static/js/main.732e0061.js.map"
+    "main.css": "/static/css/main.b16e31c6.css",
+    "main.js": "/static/js/main.23104dcc.js",
+    "static/media/galeria.png": "/static/media/galeria.c3becb17dcbd671e0506.png",
+    "static/media/backend-is.png": "/static/media/backend-is.86d97737db173fd69cf2.png",
+    "static/media/fondo-home.jpeg": "/static/media/fondo-home.ddafe4a279b7dc89d375.jpeg",
+    "static/media/frontend.jpg": "/static/media/frontend.40a96248b75039173fc4.jpg",
+    "static/media/contratar_programador.jpg": "/static/media/contratar_programador.7811e09ccdebef98497a.jpg",
+    "static/media/logo.jpg": "/static/media/logo.6a87daa4fd20a2095ebd.jpg",
+    "index.html": "/index.html",
+    "main.b16e31c6.css.map": "/static/css/main.b16e31c6.css.map",
+    "main.23104dcc.js.map": "/static/js/main.23104dcc.js.map"
   },
   "entrypoints": [
     "static/css/main.b16e31c6.css",
-    "static/js/main.732e0061.js"
+    "static/js/main.23104dcc.js"
   ]
 }
