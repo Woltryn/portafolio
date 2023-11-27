@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.2f690002.css",
+    "main.css": "/static/css/main.85f261bd.css",
     "main.js": "/static/js/main.9987fa08.js",
     "static/media/galeria.png": "/static/media/galeria.c3becb17dcbd671e0506.png",
     "static/media/backend-is.png": "/static/media/backend-is.86d97737db173fd69cf2.png",
@@ -9,11 +9,11 @@
     "static/media/contratar_programador.jpg": "/static/media/contratar_programador.7811e09ccdebef98497a.jpg",
     "static/media/logo.jpg": "/static/media/logo.6a87daa4fd20a2095ebd.jpg",
     "index.html": "/index.html",
-    "main.2f690002.css.map": "/static/css/main.2f690002.css.map",
+    "main.85f261bd.css.map": "/static/css/main.85f261bd.css.map",
     "main.9987fa08.js.map": "/static/js/main.9987fa08.js.map"
   },
   "entrypoints": [
-    "static/css/main.2f690002.css",
+    "static/css/main.85f261bd.css",
     "static/js/main.9987fa08.js"
   ]
 }
