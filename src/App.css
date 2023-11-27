@@ -420,18 +420,19 @@
   .app_flex{
     background-color: #fef4f5;
     border-radius: 50%;
+    justify-content: center;
+    text-align: center;
     display: flex;
     margin: 1rem auto;
     height: 100px;
     width: 100px;
   }
 
-  .container_left img{
-  margin: 1 auto;
-  margin-top: 20px;
-  margin-left: 1.3em;
+  .app_flex img{
+ margin-top: 1em;
   width: 60%;
   height: 60%;
+ 
   }
 
   .container_left p{
