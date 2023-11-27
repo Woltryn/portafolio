@@ -29,7 +29,7 @@ export function Header() {
         </a>
         
         
-        <a href="https://drive.google.com/file/d/1svxmaXcHukTy1PaFApZOhY1bj-foblt3/view?usp=sharing" target="_black" rel="noopener noreferrer">
+        <a href="https://drive.google.com/file/d/1KtEaEeRcaknHlfKCdVcSHiwLrz4MckzW/view" target="_black" rel="noopener noreferrer">
           
           <button className="cv_boton">Descargar CV
           </button> 

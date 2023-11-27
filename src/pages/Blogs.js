@@ -23,7 +23,7 @@ export function Blogs() {
             <p>Transformo diseños en código usando HTML, CSS y JavaScript, y tengo experiencia en frameworks como React. Con capacidad para consumir Apis, he desarrollado aplicaciones web interactivas y responsivas. Siempre estoy en búsqueda de oportunidades para aprender y aplicar las últimas tendencias en tecnología, con el objetivo de crear interfaces intuitivas y modernas.<br/><br/><br/>
             </p>
             
-            
+          
             <p>También soy muy entusiasta por el que sucede del lado de los servidores y como estos manejan la información, consiguiendo desarrollar Apis bien documentadas y con buenas practicas para su fácil consumo, así como modelar bases de datos relacional o no relacionales, manejo de datos, autenticaciones entre otras áreas. 
             
            </p>
